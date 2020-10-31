@@ -1,0 +1,121 @@
+body
+{
+	background-color: #E59866;
+	border-style: groove;
+	border-color: #542103;
+	border-width: 10px;
+	border-spacing: 16px;
+	padding: 5px 40px 5px 40px;
+	line-height: 30px;
+}
+h1
+{
+	color: #0277BD;
+	font-family: elephant;
+	text-shadow: 0px 2.4px  #1A237E; 
+}
+h2
+{
+	color: #2E4053;
+	text-shadow: 0.2px 1.3px #85C1E9;
+	font-family: algerian;
+	font-size: 35px;
+}
+table
+{	
+	background-color: #F6BF7C; 
+	width: 20%;
+	border: 2px solid black;
+	line-height: 17px;
+	margin-left: 10px;
+	margin-right: -10px;
+}
+td.index
+{
+	white-space: nowrap;
+	vertical-align: text-top;
+	font-family: Berlin Sans FB;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: normal;
+	color: black;
+}
+td
+{
+	font-family: calisto MT;
+	font-size: 16px;
+	font-weight: bolder;
+	color: #540909 ;
+}
+th
+{
+	font-family: castellar;
+	font-weight: bolder;
+	text-decoration: underline;
+	font-size: 16px;
+	border-bottom: 2px solid black;
+}
+img
+{
+	outline-style: solid;
+	outline-color: brown;
+	outline-width: 2.4px; 
+	height: 35%;
+}
+.head
+{
+	background-color: #F8C471;
+}
+p
+{
+	line-height: 20px;
+	color: #4A235A;
+}
+.intro
+{
+	font-family: forte;
+	font-size: 20px;
+}
+.history
+{
+	font-family: harrington;
+	font-weight: bolder;
+	font-size: 17px;
+	text-align: left;
+}
+.details
+{
+	font-family: comic sans ms;
+	font-size: 17px; 
+}
+.celebrate
+{
+	font-family: papyrus;
+	font-weight: bolder;
+	font-size: 19px;
+}
+.end
+{
+	font-family: segoe print;
+	font-style: italic;
+	font-size: 17px;
+	font-weight: bold;
+}
+section
+{
+	font-family: ink free;
+	font-weight: bold;
+	font-size: 15px;	
+	color: black;
+}
+a
+{
+	color: #94772D ;
+	font-family: jokerman;
+	font-style: italic;
+	font-size: 16px;
+}
+a:hover
+{
+	color: red;
+}
